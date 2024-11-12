@@ -9,17 +9,14 @@ GROUP MEMEBRS                ID
 6.Abdirwahid Kemal          NSR/011/15
                   APPROVED BY:-Miss Yitayish Lema
                   November 2024 */
-
 // required header file
 #include <conio.h>
 #include <iostream>
 #include <windows.h>
 using namespace std;
-
 // height and width of the boundary
 const int width = 80;
 const int height = 20;
-
 // Snake head coordinates of snake (x-axis, y-axis)
 int x, y;
 // Food coordinates
