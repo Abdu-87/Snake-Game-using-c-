@@ -1,12 +1,12 @@
 /* Snake Game using C++
 developed by AMU 2015 BATCH SOFTWARE ENGINEERING STUDENTS
-GROUP MEMEBRS                ID
-1.Yitages Adane             NSR/2747/14
-2.Taye Teferi               NSR/887/15
-3.Neima Mohammed            NSR/752/15
-4.Zinash Getiso             NSR/1044/15
-5.Sifan Abduselam           NSR/848/15
-6.Abdirwahid Kemal          NSR/011/15
+GROUP MEMEBRS                                 ID
+1.Yitages Adane                            NSR/2747/14
+2.Taye Teferi                              NSR/887/15
+3.Neima Mohammed                           NSR/752/15
+4.Zinash Getiso                            NSR/1044/15
+5.Sifan Abduselam                          NSR/848/15
+6.Abdirwahid Kemal                         NSR/011/15
                   APPROVED BY:-Miss Yitayish Lema
                   November 2024 */
 // required header file
