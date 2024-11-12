@@ -127,8 +127,6 @@ int SetDifficulty()
     return dfc;
 }
 
-
-// Function for creating the game board & rendering
 // Function to handle user UserInput
 void UserInput()
 {
@@ -155,7 +153,6 @@ void UserInput()
     }
 }
 
-=======
 // Main function / game looping function
 int main()
 {
